@@ -8,3 +8,6 @@ As of now this is a running application demo but we soon plan to implement artif
 The lib folder contains code for each screen in the app.
 The pubspec file shows all the assets and packages used in the app.
 The Images folder shows all the images used in the app.
+
+Our Competition Pitch Video:
+https://www.youtube.com/watch?v=WYxBg_xaMvY
