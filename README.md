@@ -9,8 +9,6 @@ The pubspec file shows all the assets and packages used in the app.
 The Images folder shows all the images used in the app.
 
 ## Click below to see our Competition Pitch Video:
-[![Everything Is AWESOME](<img width="704" alt="image" src="https://github.com/aru-g2004/MusicGenic/assets/79277193/4dce6a01-c174-4405-9b50-3eeb0662fb70">)](https://www.youtube.com/watch?v=WYxBg_xaMvY)
-
 
 [![Music Genic Pitch](https://github.com/aru-g2004/MusicGenic/assets/79277193/4dce6a01-c174-4405-9b50-3eeb0662fb70)](https://www.youtube.com/watch?v=WYxBg_xaMvY)
 
