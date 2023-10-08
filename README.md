@@ -11,3 +11,6 @@ The Images folder shows all the images used in the app.
 
 Our Competition Pitch Video:
 https://www.youtube.com/watch?v=WYxBg_xaMvY
+
+[![Our Competition Pitch Video:](https://img.youtube.com/vi/v=WYxBg_xaMvY/0.jpg)](https://www.youtube.com/watch?v=WYxBg_xaMvY)
+
